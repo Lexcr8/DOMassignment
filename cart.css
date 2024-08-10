@@ -1,0 +1,16 @@
+.cart {
+    display: inline-block;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  .heart {
+    color: gray;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  .heart.loved {
+    color: red;
+  }
+  .cart-items {
+    margin-top: 20px;
+  }
