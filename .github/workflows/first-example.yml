@@ -12,7 +12,7 @@ jobs:
         - name: Echo & List
           run: |
           echo "my first github action"
-          ls -ltra
+          ls 
 
         - name: 
           run: cowsay -f dragon "run for cover, I am a DRAGON....RAWR" >> dragon.txt
