@@ -11,7 +11,7 @@ jobs:
 
         - name: Echo & List
           run: |
-          echo "my first github action"
+          echo "my first github actions"
           ls 
 
         - name: 
